@@ -9,6 +9,10 @@ In PINCH, we leverage SwiftUI gestures to enhance user interactions. We make use
 
 These gestures allow users to perform actions such as long-pressing on an element, double-tapping to trigger specific behaviors, dragging objects across the screen, and magnifying content. By incorporating these gestures, we aim to provide a rich and intuitive user experience.
 
+<p align="center">
+  <img src="https://github.com/tacettinkustu/PINCH/assets/51737508/9214cd60-8fea-4f7e-b37f-f675e206bc98" alt="Description of the image">
+</p>
+
 ## SwiftUI Materials
 
 PINCH also utilizes SwiftUI materials to enhance the visual aesthetics of our views. One notable feature is the ability to apply a blur effect along with vibrancy to a view that appears behind another view. This creates a visually appealing and dynamic interface, adding depth and dimension to the user interface.
