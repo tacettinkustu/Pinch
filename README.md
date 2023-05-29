@@ -23,6 +23,10 @@ We integrate SF Symbols into the Pinch project. SF Symbols is a comprehensive li
 
 Feel free to explore the Pinch project and experiment with the SwiftUI gestures, materials, and SF Symbols. We hope you find this project informative and inspiring. If you have any questions or feedback, please don't hesitate to reach out.
 
+
+https://github.com/tacettinkustu/Pinch/assets/51737508/e7cfa993-6ada-4656-8f21-dd56ceb3a610
+
+
 ## Installation
 
 To get started with the Pinch project, follow these steps:
