@@ -10,7 +10,7 @@ In Pinch, we leverage SwiftUI gestures to enhance user interactions. We make use
 These gestures allow users to perform actions such as long-pressing on an element, double-tapping to trigger specific behaviors, dragging objects across the screen, and magnifying content. By incorporating these gestures, we aim to provide a rich and intuitive user experience.
 
 <p align="center">
-  <img src="https://github.com/tacettinkustu/PINCH/assets/51737508/fe696032-99ce-4a6d-8ceb-935d3762b65f" alt="Description of the image" width="360">
+  <img src="https://github.com/tacettinkustu/PINCH/assets/51737508/fe696032-99ce-4a6d-8ceb-935d3762b65f" alt="Description of the image" width="320">
 </p>
 
 ## SwiftUI Materials
